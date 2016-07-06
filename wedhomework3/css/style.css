@@ -1,0 +1,37 @@
+.header {
+  background-color: grey;
+  height:300px;
+  padding:10px 20px;
+  border: 5px solid black;
+  color: white;
+
+}
+.explanation{
+
+
+
+}
+
+.car1 {
+
+background-color: grey;
+height :250px;
+border: 2px solid red
+float: left;
+
+}
+
+
+a {
+color: red;
+text-decoration: none;
+
+}
+a:hover {
+  color: blue;
+  background-color: orange;
+}
+img {
+  width: 100%;
+
+}
